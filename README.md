@@ -6,6 +6,3 @@
 
 ## Технологии
 PostgreSQL, SQL, dbt, Apache Airflow, S3
-
-## Статус
-Проверка и доработка реализации
